@@ -4,7 +4,7 @@
 
 <title></title>
     
-    <link rel="stylesheet" type="text/css" href="../../service.css">
+    <link rel="stylesheet" type="text/css" href="service.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +22,7 @@
         <h2>Formal Letter</h2>
         <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
         <button>
-        <a href="formal.html">Click Here</a>
+        <a href="Forms/formal_form.php">Click Here</a>
         </button>
         </div>
         
@@ -33,19 +33,16 @@
         <h2>Imformal Letter</h2>
         <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
             <button>
-        <a href="informal.html">Click Here</a>
+        <a href="Forms/informal_form.php">Click Here</a>
         </button>
         </div>
-        
-        
-       
-        
-        
         
         
     </div>
     
     </div>
+    
+   
      
 </body>
 
