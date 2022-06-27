@@ -13,7 +13,8 @@
     
     
 <div class="services">
-    <h1>OUR SERVICES</h1>
+    <h1>WELCOME TO Chitti.com </h1>
+    
     <div class="cen">
         
         

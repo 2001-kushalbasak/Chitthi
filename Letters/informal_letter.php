@@ -2,6 +2,8 @@
     $name=$_GET['nm'];
     $houseno=$_GET['hno'];
     $Streetname=$_GET['stn'];
+    $cityname=$_GET['cname'];
+    $pincode=$_GET['pin'];
     ?>
 
 
@@ -19,9 +21,10 @@
 </head>
 <body>
     <center><h1>Informal Letter List:-</h1></center>
+    
                                                 <center><h2>Letter 1</h2></center>
 <?php echo $houseno.', '?><?php echo $Streetname ?><br>
-Kolkata – 700017<br>
+<?php echo $cityname .' -'. $pincode?><br>
 15/02/2020<br>
 
 

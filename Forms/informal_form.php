@@ -17,9 +17,16 @@
     <br>
      <center>
     <form action="../Letters/informal_letter.php">
-    <input type="text" name="nm" value=""placeholder="Enter your name"><br>
-    <input type="text" name="hno" value=""placeholder="Enter your house number"><br>
-        <input type="text" name="stn" value=""placeholder="Enter Street name"><br>
+    <input type="text" name="nm" value=""placeholder="Enter your name">
+        <br>
+    <input type="text" name="hno" value=""placeholder="Enter your house number">
+        <br>
+        <input type="text" name="stn" value=""placeholder="Enter Street name">
+        <br>
+        <input type="text" name="cname" value=""placeholder="Enter City name">
+        <br>
+        <input type="text" name="pin" value=""placeholder="Enter Pincode">
+        <br>
         <input type="submit" value="Submit">
     
     </form>
