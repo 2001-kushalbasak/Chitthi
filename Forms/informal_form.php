@@ -27,6 +27,12 @@
         <br>
         <input type="text" name="pin" value=""placeholder="Enter Pincode">
         <br>
+        <input type="text" name="to" value=""placeholder="To?">
+        <br>
+        <input type="date" name="date" value=""placeholder="Enter date">
+        
+        
+        <br>
         <input type="submit" value="Submit">
     
     </form>
