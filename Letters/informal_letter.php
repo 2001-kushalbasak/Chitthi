@@ -49,7 +49,21 @@ With love,<br>
                                                 <center><h2>Letter 2</h2></center>
     
     
+<p>
+<?php echo $houseno.', '?><?php echo $Streetname ?><br>
+<?php echo $cityname .' -'. $pincode?><br>
+<?php echo $date  ?><br>
 
+   Dear <?php echo $to?>,<br>
+
+How are you doing? I hope all is well. I just read the novel which you wrote last week in Kolkata. How can someone write so beautifully? Amazing! My father has also appreciated your work and has asked me to tell you that you are doing an incredible job.
+I really appreciate the words that you have used and the tone. The best part of your novel is that your work is absolutely real and derived from real-life experiences. It shows your writing skills and how much effort you have given to your writings. You have done absolute justice and I am proud of the way you have handled it.
+
+Rahul, it has been two years since we have drifted apart because of our higher studies and career. I hope to meet you soon. Go ahead! The sky is the limit!
+<br>
+With best wishes,<br>
+Yours lovingly,<br>
+<?php echo $name ?></p>
     
     
 </body>
