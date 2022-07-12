@@ -1,41 +1,68 @@
 <!DOCTYPE.html>
-<html>
 <head>
 
 
-<title>Formal Form FillUp</title>
+<title></title>
     
-    <link rel="stylesheet" type="text/css" href="service.css">
+    <link rel="stylesheet" type="text/css" href="../service.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
     
-    <center><h1>Formal Form Fillup</h1></center>
-    <br>
-    <br>
-     <center>
-    <form action="../Letters/formal_letter.php">
-    <input type="text" name="nm" value=""placeholder="Enter your name">
-        <br>
-    <input type="text" name="hno" value=""placeholder="Enter your house number">
-        <br>
-        <input type="text" name="stn" value=""placeholder="Enter Street name">
-        <br>
-        <input type="text" name="cname" value=""placeholder="Enter City name">
-        <br>
-        <input type="text" name="pin" value=""placeholder="Enter Pincode">
-        <br>
-        <input type="text" name="to" value=""placeholder="To?">
-        <br>
-        <input type="date" name="date" value=""placeholder="Enter date">
-        
-        
-        <br>
-        <input type="submit" value="Submit">
     
-    </form>
-    </center>
+<div class="services">
+    <h1>WELCOME to formal section </h1> 
+    
+    <div class="cen">
+        
+        
+    <div class="service">
+        <i class="fa fa-anchor" aria-hidden="true"></i>
+        <h2>School Letter</h2>
+        <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
+        <button>
+        <a href="#">Click Here</a>
+        </button>
+        </div>
+        
+        
+        
+        <div class="service">
+        <i class="fa fa-anchor" aria-hidden="true"></i>
+        <h2>Bank Letter</h2>
+        <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
+            <button>
+        <a href="#">Click Here</a>
+        </button>
+        </div>
+        
+        
+        <div class="service">
+        <i class="fa fa-anchor" aria-hidden="true"></i>
+        <h2>Office Letter</h2>
+        <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
+            <button>
+        <a href="#">Click Here</a>
+        </button>
+        </div>
+        
+        
+        <div class="service">
+        <i class="fa fa-anchor" aria-hidden="true"></i>
+        <h2>Newspaper Letter</h2>
+        <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
+            <button>
+        <a href="#">Click Here</a>
+        </button>
+        </div>
+        
+    </div>
+    
+    </div>
+    
+   
+     
 </body>
-</html>
+
