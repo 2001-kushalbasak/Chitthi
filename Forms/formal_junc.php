@@ -23,7 +23,7 @@
         <h2>School Letter</h2>
         <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
         <button>
-        <a href="#">Click Here</a>
+        <a href="../Forms/formal-form/school-letter-form.php">Click Here</a>
         </button>
         </div>
         

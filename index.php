@@ -23,7 +23,7 @@
         <h2>Formal Letter</h2>
         <p>Lorem ipsum dolor sit amet, curabitur quaerat placeat eget dolor nec dictum, tristique ut erat nibh. </p>
         <button>
-        <a href="Forms/formal_form.php">Click Here</a>
+        <a href="Forms/formal_junc.php">Click Here</a>
         </button>
         </div>
         
